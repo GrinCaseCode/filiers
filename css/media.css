@@ -586,6 +586,9 @@
     }
     .wrapper {
         padding-top: 61px;
+        background-size: 130% auto;
+        background-position: center top;
+        background-repeat: repeat-y;
     }
 }
 
@@ -643,11 +646,6 @@
     }
     .production .title-section {
         margin-bottom: 24px;
-    }
-    .wrapper {
-        background-size: 130% auto;
-        background-position: center top;
-        background-repeat: repeat-y;
     }
     .descr-main {
         text-indent: 0;
