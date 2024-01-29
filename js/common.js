@@ -50,6 +50,7 @@ if ( $(this).scrollTop() > 0 && $menu.hasClass("default") ){
 		$(".header-botttom").slideUp(200);
 		$(".sandwich").removeClass("active");
 		$(".menu-overlay").fadeOut(200);
+		$(".header").removeClass("active");
 	});
 
 	$("*[data-video-id]").modalVideo();
