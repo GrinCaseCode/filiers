@@ -649,6 +649,12 @@
         background-position: center top;
         background-repeat: repeat-y;
     }
+    .descr-main {
+        text-indent: 0;
+    }
+    .contacts-block {
+        padding-bottom: 40px;
+    }
 }
 
 /* Extra Small Devices, Phones */
